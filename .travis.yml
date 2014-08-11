@@ -9,4 +9,4 @@ before_install:
   - curl https://raw.githubusercontent.com/SublimeText/Dictionaries/master/Spanish.aff -o Spanish.aff
   - curl https://raw.githubusercontent.com/SublimeText/Dictionaries/master/Spanish.dic -o Spanish.dic
 install: cpanm Test::Text
-script: perl -MTest::Text 'just_check "text",".", "Spanish"'
+script: perl -MTest::Text -e 'just_check "text",".", "Spanish"'
