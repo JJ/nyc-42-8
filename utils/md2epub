@@ -4,7 +4,7 @@
 # ../utils/md2epub
 
 pandoc -S --toc --epub-metadata=../metadata.xml --epub-stylesheet=../nyc-42-8.css \
-    -o nyc-42-8.epub nyc-42-8.txt nyc-42-8.md
+    -o nyc-42-8.epub nyc-42-8.md
 
 
 
