@@ -7,7 +7,7 @@ tomar aviones en el último momento y de oler las calles de Nueva
 Orleáns a las 6 de la mañana. 
 
 En resumen, una historia de viajes que estará a partir del 1 de
-septiembre a la venta en Amazon. 
+septiembre a la venta en Amazon. Mientras tanto, [puedes reservar tu ejemplar ya mismo](http://www.amazon.com/dp/B00MRANX32). No es que se vayan a gastar, pero así en cuanto que salga lo tienes en tus manos.
 
 Un libro libre
 ---
