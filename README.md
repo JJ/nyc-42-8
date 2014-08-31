@@ -9,6 +9,11 @@ Orleáns a las 6 de la mañana.
 En resumen, una historia de viajes que estará a partir del 1 de
 septiembre a la venta en Amazon. Mientras tanto, [puedes reservar tu ejemplar ya mismo](http://www.amazon.com/dp/B00MRANX32). No es que se vayan a gastar, pero así en cuanto que salga lo tienes en tus manos.
 
+Estado ortográfico
+---
+
+[![Build Status](https://travis-ci.org/JJ/nyc-42-8.svg?branch=master)](https://travis-ci.org/JJ/nyc-42-8)
+
 Un libro libre
 ---
 
@@ -18,7 +23,7 @@ copiarlo, modificarlo y demás [Creative Commmons cc-by-sa 4.0](http://creativec
 [![Licencia CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) 
 
 
-Puedes hacer un *fork* a tu propia cuenta de GitHub, extraer
+Puedes hacer un *fork* a tu propia cuenta de GitHub desde [este repositorio](https://github.com/JJ/nyc-42-8), extraer
 fragmentos, y en general copiarlo o cambiarlo siempre que el material
 resultante tenga la misma licencia. 
 
