@@ -6,11 +6,12 @@ una visita a Nueva York, de veinte años de viajes por el mundo, de
 tomar aviones en el último momento y de oler las calles de Nueva
 Orleáns a las 6 de la mañana. 
 
-En resumen, una historia de viajes que estará a partir del 1 de
-septiembre a la venta en Amazon. Mientras tanto, [puedes reservar tu ejemplar ya mismo](http://www.amazon.com/dp/B00MRANX32). No es que se vayan a gastar, pero así en cuanto que salga lo tienes en tus manos.
+Desde el uno de septiembre, [está a la venta en Amazon.es](https://www.amazon.es/dp/B00MRANX32?tag=atalaya-21&camp=3634&creative=24822&linkCode=as4&creativeASIN=B00MRANX32&adid=0EJTGA76G9TQ4C94RQCB&) y [en otras tiendas Amazon](http://www.amazon.com/dp/B00MRANX32).
 
 Estado ortográfico
 ---
+
+Si lo de abajo es verde, no se ha detectado ninguna falta de ortografía.
 
 [![Build Status](https://travis-ci.org/JJ/nyc-42-8.svg?branch=master)](https://travis-ci.org/JJ/nyc-42-8)
 
