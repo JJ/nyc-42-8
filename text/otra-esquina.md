@@ -19,3 +19,30 @@ es lo que recibes según con quién te sientes a la mesa. A los americanos les g
 # Fue una experiencia religiosa
 
 al menos, para alguien.
+
+
+# El motor del capitalismo es
+
+el de los coches. Eléctricos, híbridos, a vapor o usando los excrementos de los unicornios. Como sea, pero es mucho mejor que usar esos artefactos bolcheviques llamados bicicletas o esas extremidades hippies llamadas pies.
+
+Ese fue el argumento de una conversación con un guardia de seguridad en la que J, la persona que me acompañaba, comentó que no tenía carnet de conducir, ante la incredulidad de quien trataba de alquilarle un coche.
+
+- Pero ¿se lo ha dejado en algún sitio?
+
+- No, es que no tengo.
+
+- ¿Lo ha perdido?
+
+- No, nunca he tenido.
+
+El concepto de una persona sin carnet de conducir es algo inconcebible para la mente americana. El coche es consustancial al modo de vida y el lugar donde se desarrolla gran parte de ella. Se come, se bebe, se habla, se trabaja y, cuando las cosas vienen mal dadas, se duerme, como el personaje de "Me llamo Earl" que lo perdió todo por culpa de no haber vuelto a conseguir las victorias en el golf que le había proporcionado Earl y su hermano a base de engaños.
+
+>Por cierto que ese personaje lo representaba [Johnny Galecki, nuestro Leonard Hofstadter](http://es.wikipedia.org/wiki/Johnny_Galecki) y el coche era uno que difícilmente encontrarás en América, un Renault 25.
+
+Por eso precisamente es el motor del capitalismo, como nos decía el segurata. Hace que la economía vaya sobre ruedas, en una acumulación de metáforas trilladas. La gasolina, los créditos al consumo, los pinos que se cuelgan en el retrovisor, los volantes de leopardo. Sin todo ello, América se colapsaría y acabaría convertida en una versión de Holanda con menos tulipanes y con menos olor a maría por las calles.
+
+> Borra eso. El olor, con aquello de la [marihuana medicinal](http://en.wikipedia.org/wiki/Medical_cannabis#Modern), sería más o menos el mismo. 
+
+Quizás no, alegué yo. Al fin y al cabo los ciclistas compran todo tipo de parafernalia para su bici y para ellos: esos cascos, esos *culottes*, esos sillines por no mencionar todo tipo de árnicas y otros ungüentos necesarios para dolores musculares y culares, desollones por caídas y los geles y champuses que hacen falta para lavarse el pelo después de que el casco te lo deje todo chafado.
+
+> Vamos, no le dije todo eso. Le dije una pequeña parte. En esencia, una defensa del capitalismo inherente también en el uso de vehículos de dos ruedas. Si me hubiera dejado, hasta habría defendido a los caminantes desbicicletados, como yo, que también consumimos plantillas, medias suelas, cordones de zapatos y más zapatos cuando los primeros se van deteriorando. Aunque lo cierto es que tengo unas botas artesanas de [Zapatari](http://www.navarra.es/home_es/Temas/Empleo+y+Economia/EconomIa+de+Navarra/Empresas/Catalogo+de+Artesanos/fichas/ZAPATARI.htm) desde hace veinte años. Así no voy a contribuir nada al PIB, dándole la razón al guardia de seguridad de la universidad americana. 
