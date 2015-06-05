@@ -55,3 +55,5 @@ Quizás no, alegué yo. Al fin y al cabo los ciclistas compran todo tipo de para
 # El pan nuestro de cada día
 
 Dánoslo hoy por tres dólares. 
+
+# Gente esperando en las calles
