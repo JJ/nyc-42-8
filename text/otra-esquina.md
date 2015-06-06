@@ -57,3 +57,9 @@ Quizás no, alegué yo. Al fin y al cabo los ciclistas compran todo tipo de para
 Dánoslo hoy por tres dólares. 
 
 # Gente esperando en las calles
+
+# Trabajando en Dumbo
+
+# MOMA por la cara
+
+# El Nueva York de los porteros con librea
