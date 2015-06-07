@@ -76,3 +76,6 @@ Lo que nos recorrimos
 
 # La final de la Champions
 
+# La libertad de expresión
+
+está consagrada por la primera enmienda de la constitución americana. Aunque técnicamente es parte de la constitución, no se le ocurrió a los primeros padres, que estarían en otros temas más importantes como las veleidades del mercado de esclavos o la productividad de sus plantaciones de algodón. La historia de esa [primera enmienda es curiosa](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#First_Amendment_ratification) y tiene que ver con la limitación del poder del gobierno federal. Pero el hecho es que los Estados Unidos es un país en el que la libertad de expresión tiene más de trescientos años de historia y se nota en escenas como la que pude ver en Union Square un sábado por la tarde. 
