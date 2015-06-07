@@ -79,3 +79,7 @@ Lo que nos recorrimos
 # La libertad de expresión
 
 está consagrada por la primera enmienda de la constitución americana. Aunque técnicamente es parte de la constitución, no se le ocurrió a los primeros padres, que estarían en otros temas más importantes como las veleidades del mercado de esclavos o la productividad de sus plantaciones de algodón. La historia de esa [primera enmienda es curiosa](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#First_Amendment_ratification) y tiene que ver con la limitación del poder del gobierno federal. Pero el hecho es que los Estados Unidos es un país en el que la libertad de expresión tiene más de trescientos años de historia y se nota en escenas como la que pude ver en Union Square un sábado por la tarde. 
+
+# Siempre es una gran elección
+
+cuando eliges algo en un restaurante. Las camareras, casi siempre del sexo femenino, te hacen sentir que has logrado graduarte en el máster de escoger entre la hamburguesa de la casa o la que tiene extra bacon. El enunciado de cualquier plato es recibido con una sonrisa y un cambio de postura al apuntarlo. En ningún caso sentirás que si pides guacamole de segundo plato la nariz se le arruga y el gesto se le tuerce. O si pides una hamburguesa para compartir. Si te empeñas, hasta te la partirán en cinco porciones totalmente proporcionales.
