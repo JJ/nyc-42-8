@@ -63,3 +63,16 @@ Dánoslo hoy por tres dólares.
 # MOMA por la cara
 
 # El Nueva York de los porteros con librea
+
+# Ejerciendo de turista
+
+# El dilema de las propinas
+
+# 40 calles
+
+Lo que nos recorrimos
+
+# Sábado en Union Square
+
+# La final de la Champions
+
