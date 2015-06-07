@@ -82,4 +82,8 @@ está consagrada por la primera enmienda de la constitución americana. Aunque t
 
 # Siempre es una gran elección
 
-cuando eliges algo en un restaurante. Las camareras, casi siempre del sexo femenino, te hacen sentir que has logrado graduarte en el máster de escoger entre la hamburguesa de la casa o la que tiene extra bacon. El enunciado de cualquier plato es recibido con una sonrisa y un cambio de postura al apuntarlo. En ningún caso sentirás que si pides guacamole de segundo plato la nariz se le arruga y el gesto se le tuerce. O si pides una hamburguesa para compartir. Si te empeñas, hasta te la partirán en cinco porciones totalmente proporcionales.
+cuando eliges algo en un restaurante. Las camareras, casi siempre del sexo femenino, te hacen sentir que has logrado graduarte en el máster de escoger entre la hamburguesa de la casa o la que tiene extra beicon. El enunciado de cualquier plato es recibido con una sonrisa y un cambio de postura al apuntarlo. En ningún caso sentirás que si pides guacamole de segundo plato la nariz se le arruga y el gesto se le tuerce. O si pides una hamburguesa para compartir. Si te empeñas, hasta te la partirán en cinco porciones totalmente proporcionales.
+
+# Y a la mañana siguiente,
+
+el paquete de Amazon Prime todavía seguía allí. 
