@@ -87,3 +87,10 @@ cuando eliges algo en un restaurante. Las camareras, casi siempre del sexo femen
 # Y a la mañana siguiente,
 
 el paquete de Amazon Prime todavía seguía allí. 
+
+# Las mujeres me mantienen joven
+
+me dijo el guitarrista que, con desigual fortuna vocal y pecuniaria, se atrevía con los clásicos latinos incluyendo, como no, Guantanamera, en el andén del metro.
+
+- El M no circula hoy -, nos había dicho al terminar su canción. Nos había visto evitar el E y esperar, en vano, a que llegara el M. 
+
