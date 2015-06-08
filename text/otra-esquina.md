@@ -94,3 +94,6 @@ me dijo el guitarrista que, con desigual fortuna vocal y pecuniaria, se atrevía
 
 - El M no circula hoy -, nos había dicho al terminar su canción. Nos había visto evitar el E y esperar, en vano, a que llegara el M. 
 
+# El largo camino de vuelta
+
+comienza bajando los tres tramos de las escaleras con la maleta a cuestas. El ascensor, ese gran invento del capitalismo, está ausente de muchos bloques de pisos americanos. Los que tienen, tienen portero o porteros con librea y ascensores. Los que no tienen, ni lo uno ni lo otro.
