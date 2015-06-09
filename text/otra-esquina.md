@@ -97,3 +97,7 @@ me dijo el guitarrista que, con desigual fortuna vocal y pecuniaria, se atrevía
 # El largo camino de vuelta
 
 comienza bajando los tres tramos de las escaleras con la maleta a cuestas. El ascensor, ese gran invento del capitalismo, está ausente de muchos bloques de pisos americanos. Los que tienen, tienen portero o porteros con librea y ascensores. Los que no tienen, ni lo uno ni lo otro.
+
+# Hay trabajos para todo el mundo
+
+aunque sean trabajos tan curiosos como colocar a la gente en las colas o tratar de vender tickets por las calles a gente que, posiblemente, debería ser capaz de comprarlos por sí sola.
