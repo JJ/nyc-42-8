@@ -101,3 +101,9 @@ comienza bajando los tres tramos de las escaleras con la maleta a cuestas. El as
 # Hay trabajos para todo el mundo
 
 aunque sean trabajos tan curiosos como colocar a la gente en las colas o tratar de vender tickets por las calles a gente que, posiblemente, debería ser capaz de comprarlos por sí sola.
+
+# Vivir en Nueva York
+
+es, posiblemente, algo a lo que no todo el mundo puede aspirar. No todos cabemos, pero también es cierto que no todos querríamos. Hay sitios para visitar, sitios para vivir durante un tiempo y sitios donde querrías vivir toda la vida, con la familia, el loro y las partidas de petanca de los sábados. La [evidencia](http://verne.elpais.com/verne/2015/06/08/articulo/1433764672_725740.html) parece indicar que Nueva York no sería uno de estos últimos. Cuando [Chandler y Mónica adoptan a Jack y Erica](http://friends.wikia.com/wiki/The_Last_One) recorren el apartamento de Mónica, donde han pasado toda la serie
+>ya sabemos que es un decorado en Los Angeles, pero por mor del argumento, vamos a suponer que es efectivamente [un apartamento en Greenwich Village](http://blog.padmapper.com/2010/08/12/5-new-york-city-apartments-we-all-know-and-love/)
+para despedirse antes de irse a *los suburbios*, algún sitio no-neoyorquino o, en todo caso, no-Manhattanita. 
