@@ -97,3 +97,24 @@ me dijo el guitarrista que, con desigual fortuna vocal y pecuniaria, se atrevía
 # El largo camino de vuelta
 
 comienza bajando los tres tramos de las escaleras con la maleta a cuestas. El ascensor, ese gran invento del capitalismo, está ausente de muchos bloques de pisos americanos. Los que tienen, tienen portero o porteros con librea y ascensores. Los que no tienen, ni lo uno ni lo otro.
+
+# Hay trabajos para todo el mundo
+
+aunque sean trabajos tan curiosos como colocar a la gente en las colas o tratar de vender tickets por las calles a gente que, posiblemente, debería ser capaz de comprarlos por sí sola.
+
+# Vivir en Nueva York
+
+es, posiblemente, algo a lo que no todo el mundo puede aspirar. No todos cabemos, pero también es cierto que no todos querríamos. Hay sitios para visitar, sitios para vivir durante un tiempo y sitios donde querrías vivir toda la vida, con la familia, el loro y las partidas de petanca de los sábados. La [evidencia](http://verne.elpais.com/verne/2015/06/08/articulo/1433764672_725740.html) parece indicar que Nueva York no sería uno de estos últimos. Cuando [Chandler y Mónica adoptan a Jack y Erica](http://friends.wikia.com/wiki/The_Last_One) recorren el apartamento de Mónica, donde han pasado toda la serie
+>ya sabemos que es un decorado en Los Angeles, pero por mor del argumento, vamos a suponer que es efectivamente [un apartamento en Greenwich Village](http://blog.padmapper.com/2010/08/12/5-new-york-city-apartments-we-all-know-and-love/)
+para despedirse antes de irse a *los suburbios*, algún sitio no-neoyorquino o, en todo caso, no-Manhattanita. [Lilly y Marshall, de Cómo Conocí a Vuestra Madre, se van a Long Island](http://how-i-met-your-mother.wikia.com/wiki/Marshall_and_Lily%27s_house), que es tan lejos de Manhattan como Sevilla pueda estar de Granada y, por tanto, a [una buena distancia del apartamento que compartían con Ted](http://how-i-met-your-mother.wikia.com/wiki/The_Apartment), en el Upper West Side.
+Puedes comprobar por ti mismo las razones por las que tal cosa sucede si, en vez de ir a un hotel, alquilas un apartamento en [AirBnB](http://airbnb.com) como nosotros hicimos. Te aconsejo vivamente que lo hagas: no sólo conseguirás alojarte en Manhattan (o, si te apetece, Brooklyn o el Bronx) por bastante menos dinero del que te costaría un hotel, sino que verás de verdad cómo viven los neoyorquinos. Tu apartamento no será representativo de todos los apartamentos donde viven los actores de teatro y los banqueros de inversiones, los ejecutivos de canales de televisión y los de empresas navieras y también los estudiantes del Community College que trabajan a tiempo parcial como baristas en el Starbucks. Pero será uno de ellos y al menos podrás comprender por qué tanto unos como otros estaban deseando de cambiar de aires.
+Nuestro apartamento era el 4C, el mismo número que el de Ted. No consta si Ted subía en ascensor o no, pero la única forma de acceder al nuestro era subiendo tres tramos de escaleras. Por camino encontrábamos retazos de vida del resto del edificio, a saber
+
+* Un paquete de Amazon Prime que se tiró en las escaleras, sin recoger, dos días.
+* Un perrito  que nos ladraba cada vez que pasábamos delante de la puerta, hasta que un día dejó de hacerlo.
+* Cartas diversas enganchadas de formas diversas a la zona de los buzones, dirigidas a alguien en particular o a todo el mundo en general.
+* Los repartidores de [*Boar's head*](http://boarshead.com/about) que traían comida del *Deli* para algún otro vecino. 
+
+Puede que sea una de las claves del abandono eventual de Nueva York hacia los suburbios o, cuando te jubilas, directamente hacia prados más soleados en Florida: la ausencia de ascensores o, en general, la falta de acondicionamiento de las viviendas en Nueva York. O la ausencia de aislamiento: en en 4C teníamos un vecino, posiblemente del 5C, que llegaba todos los días a las 23:30 y sonaba como si estuviera en nuestro propio salón, lo que era imposible porque allí estaba durmiendo nuestra Charo y habría gritado en todas las escalas si hubiera sido así. Tampoco es que hubiera aislamiento del exterior: las ventanas están agujereadas para encastrar el aparato de aire acondicionado y, por los lados del mismo, entra todo lo que tiene a bien entrar. Las escenas de manta y sofá en las series americanas
+> de las que ahora no recuerdo ninguna, pero tiene que haberlas
+son irremediables. Cuando vives en un apartamento en Nueva York siempre te preguntan, tras el precio, por el vecindario y los vecinos más cercanos. Porque el precio ya sabes que va a ser exorbitante. 
