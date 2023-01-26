@@ -19,3 +19,7 @@ nytprof.out
 *.bs
 logs
 *.zip
+
+*.pdf
+
+*~

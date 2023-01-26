@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#Ejecuta desde texto 
+# ../utils/md2epub
+
+pandoc --toc -V geometry:paperheight=9in -V geometry=paperwidth=6in \
+       -V author='JJ Merelo' -V title='Una esquina en Nueva York'\
+       -V documentclass=book\
+       -o nyc-42-8.pdf text/nyc-42-8.md
+
+
+
+
